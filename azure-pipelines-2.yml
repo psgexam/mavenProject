@@ -1,0 +1,6 @@
+
+pool: self
+
+steps:
+- script: hostname
+  
